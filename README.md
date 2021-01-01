@@ -16,7 +16,7 @@ In this piece, I'll first explain what I'm trying to achieve, then we'll look in
 
 ## The Goal
 
-When learning a skill with a high degree of automaticity, especially without a coach, it is of the highest importance to have a simple mental model that will guide you to the right direction as you progress. This mental model consists of an idea, an ideal and a set of cues that will help you approach that ideal. In the best case scenario the model can remain almost unchanged as you get better with practice.
+When learning a skill with a high degree of automaticity, especially without a coach, it is crucial to have a simple mental model that will guide you to the right direction as you progress. This mental model consists of an idea, an ideal and a set of cues that will help you approach that ideal. In the best case scenario the model can remain almost unchanged as you get better with practice.
 
 My goal is to convey this mental model I have created for myself, and which I believe to be a good one, to you.
 
