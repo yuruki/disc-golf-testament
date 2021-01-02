@@ -57,7 +57,9 @@ Next, you'll check out some YouTube videos. The friendly person in the video tel
 
 Aha, this video says that the throw is like a whip, that the movement starts from the base and moves up the body and out to the disc. Makes sense. Well, I combined the lawnmower with the whip and it didn't work out. Lawnmower encourages early acceleration and the whip late acceleration, and between them lies a desert of deceleration.
 
-Then came the power pocket, spin-and-throw and the realization that one can't do an X-step on a straight line (your feet need space!). You get the point. There are many, many solutions offered for the backhand problem, and you might end up with an overcomplicated mess for a throw. I did.
+Then came the power pocket, spin-and-throw and the realization that one can't do an X-step on a straight line (your feet need space!). You get the point. There are many, many solutions offered for the backhand problem, and you might end up with an overcomplicated mess for a throw.
+
+What ever you do, don't try to fix your throw by throwing harder. That effort will be wasted.
 
 ## The Brace
 
