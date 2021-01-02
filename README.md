@@ -43,9 +43,11 @@ When talking about cues, the selection of words is important. For example, I cho
 
 Let's consider "snap" as an example. Numerous videos talk about snap in a disc golf throw. The problem with snap is that it is ambiguous. Some consider snap as the sound the release of the disc may or may not make. Others understand snap as the movement being "snappy". Neither of these interpretations are very helpful as they don't guide you to do the right thing.
 
-In this mental model the final part of the throw is called "slap". As "snap" told us nothing, "slap" is immediately familiar and instructive. Everybody knows how to backhand slap something, whether it's part of your daily routine or not. So, on a backhand throw, imagine an A4 size paper floating in the air at an arm's length in front of you, tilted to match your intended hyzer/anhyzer angle (DIAGRAM MISSING). Slap through the paper with the back of your hand, in a way which would make the loudest possible imaginary smack, and there's your drive. Do it softer, and there's your approach.
+In this mental model the final part of the throw is called "slap". As "snap" told us nothing, "slap" is immediately familiar and instructive. Everybody knows how to backhand slap something, whether it's part of your daily routine or not. So, for a backhand throw, imagine an A4 size paper floating in the air at an arm's length in front of you, at a height matching your intended hyzer/anhyzer angle. Then slap through the paper with the back of your hand, in a way which would make the loudest possible imaginary smack, and there's your drive. Do it softer, and there's your approach.
 
-> By the time your hand reaches the imaginary paper target your arm should be fully extended, and coincidentally, it's the point where the disc leaves your hand. You can adjust the timing of your throw by simply moving the target forwards and backwards. Typically the sweet spot is around the level of your brace foot.
+You can place this slap target by sticking your hand out as if shaking hands with someone. Then you can adjust your hyzer/anhyzer angle by raising or lowering your arm. Similarly, you can adjust the timing of your throw by moving the arm to the left or to the right. When the adjustments are done make a mental note of where the hand is in relation to your torso, and there's your slap target.
+
+> By the time your hand reaches the imaginary slap target during a throw your arm should be fully extended, and coincidentally, it's the point where the disc leaves your hand.
 
 **The slap is the throw**. Everything we do before the slap is optional and just serves to make the slap louder (=faster) and more efficient (=smoother/easier). We let the follow-through happen on its own and observe casually as the disc completes its flight... or hits the first available.
 
@@ -87,7 +89,7 @@ My recommendation is a staggered four-step sequence as taught by Jalle Stoor (DI
 ## The Rest
 
 1. For a cleaner release and "a louder slap", concentrate the pressure in your grip on the fingers farthest away from your body. This will make your arm effectively longer.
-2. For a more efficient slap and better angle consistency, move your arm in a flat plane, i.e. "imagine sweeping towards the target paper with your leading elbow".
+2. For a more efficient slap and better angle consistency, move your arm in a flat plane, i.e. imagine sweeping towards the slap target with your leading elbow.
 3. The idea of slap applies to forehand/sidearm as well. I believe Gregg Barsby has even mentioned that cue somewhere.
 4. Remember that your putt still has the biggest impact on your score.
 
