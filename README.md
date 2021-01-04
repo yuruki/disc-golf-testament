@@ -78,13 +78,15 @@ Things to consider when experimenting with steps:
 2. You should be able to scale the steps down as needed, all the way to a standstill
 3. The steps should feel smooth and not waste momentum, i.e. don't force anything, let it roll
 
-My recommendation is a staggered four-step sequence as taught by Jalle Stoor (DIAGRAM MISSING). This is how you do it:
+My recommendation is a staggered four-step sequence as taught by Jalle Stoor. This is how you do it:
 1. Imagine a line on the ground towards your throwing direction
 2. Stand off the line on your throwing hand's side. Face the line diagonally
 3. Step forward onto the line with the foot on the side of your free hand (starting off)
 4. Next step should land on the far side of the line with your foot at 90 degrees with the line (aligning with the throwing direction)
 5. Step behind the other foot landing on the near side of the line (X-step)
 6. Plant the last step on the far side of the line (brace)
+
+> Tomas Ekström demonstrates these steps perfectly in the beginning of this video: https://www.youtube.com/watch?v=ppnmwkr2jO0.
 
 ## The Rest
 
