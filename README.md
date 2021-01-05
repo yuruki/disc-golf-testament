@@ -1,10 +1,10 @@
 # The Testament of an Unknown Disc Golfer
 
-> Fellow disc golfers, I believe I have found a way to efficient backhand throw.
+> Fellow disc golfers, I believe I have found a way to throw backhand efficiently.
 
 ## Preface
 
-When teaching a sport the teacher, or the coach, is often expected to show merit in that sport. Although I will argue that a coach is not required to be competitive in the sport they are teaching, it will be prudent to state that I'm not a disc golf champion at any level.
+When teaching a sport the teacher, or the coach, is often expected to show merit in that sport. Although I will argue a coach is not required to be competitive in the sport they are teaching, it will be prudent to state that I'm not a disc golf champion at any level.
 
 I have invested time and effort over the last five years to understand and learn the disc golf backhand throw. My sources and methods have been the usual: fellow players and YouTube videos, practice, experimentation and contemplating. Now, I want to pass what I have learned to you.
 
@@ -16,19 +16,23 @@ In this piece, I'll first explain what I'm trying to achieve, then we'll look in
 
 ## The Goal
 
-When learning a skill with a high degree of automaticity, especially without a coach, it is crucial to have a simple mental model that will guide you to the right direction as you progress. This mental model consists of an idea, an ideal and a set of cues that will help you approach that ideal. In the best case scenario the model can remain almost unchanged as you get better with practice.
+When learning a skill with a high degree of automaticity, especially without a coach, it is crucial to have a simple mental model that will guide you to the right direction as you progress. This mental model consists of an idea, an ideal and a set of cues that will help you approach that ideal. In the best case scenario the model can remain unchanged while you get better with practice.
 
 My goal is to convey this mental model I have created for myself, and which I believe to be a good one, to you.
 
 ## The Backhand
 
-> Disc golf backhand throw is difficult. If that's not the case for you, you got lucky.
+> Disc golf backhand throw is a difficult movement. If that's not the case for you, you got lucky.
 
-The first thing to realize is that the backhand throw is, or should be treated as an automatic skill. As archery coach Alistair Whittingham put it (https://performance-archery.com/automatic-skill/), you practice an automatic skill and prepare for an execution of an automatic skill cognitively, but you execute it non-cognitively. Which means you should consider the difference between practicing (a part of) the throw and executing a throw. Executing a throw non-cognitively is required to make the movement smooth and relaxed.
+The first thing to realize is that the backhand throw is, or should be treated as an automatic skill. As archery coach Alistair Whittingham put it (https://performance-archery.com/automatic-skill/), you practice an automatic skill and prepare for the execution of an automatic skill cognitively ("with thought"), but you execute it non-cognitively ("without thought").
 
-The next thing to realize is that the flight of the disc is not part of your throw; it is the result of your throw, the disc characteristics and the environment. You can influence the initial direction (vertical and horizontal), the hyzer/anhyzer angle, the nose angle and the speed of the disc. That's it. No, you don't control the spin either. This is why I would recommend practicing the throw on a net or without paying much or any attention on where the disc lands; practicing the discs and shot shapes is a separate part of the game.
+You should consider the difference between practicing (a part of) the throw and executing a throw. Executing a throw non-cognitively is a requirement to make the movement smooth and relaxed.
 
-Now that we have gone through what happens inside your head when throwing, we can move on to what happens in/with your body.
+The next thing to realize is that the flight of the disc is not part of your throw; it is the result of your throw, the disc characteristics and the environment. You can influence the initial direction (vertical and horizontal), the hyzer/anhyzer angle, the nose angle and the velocity of the disc. That's it. No, you don't control the spin either.
+
+This is why I would recommend practicing the throw on a net or at least without paying much or any attention on where the disc lands; practicing the discs and the shot shapes is a separate part of the game.
+
+Now that we have gone through what happens inside your head when throwing, we can move on to what happens with your body.
 
 YouTube has many videos breaking down the backhand throw. Depending on the video the movement might have one or a dozen stages or parts in it. This mental model has three.
 
@@ -43,11 +47,13 @@ When talking about cues, the selection of words is important. For example, I cho
 
 Let's consider "snap" as an example. Numerous videos talk about snap in a disc golf throw. The problem with snap is that it is ambiguous. Some consider snap as the sound the release of the disc may or may not make. Others understand snap as the movement being "snappy". Neither of these interpretations are very helpful as they don't guide you to do the right thing.
 
-In this mental model the final part of the throw is called "slap". As "snap" told us nothing, "slap" is immediately familiar and instructive. Everybody knows how to backhand slap something, whether it's part of your daily routine or not. So, for a backhand throw, imagine an A4 size paper floating in the air at an arm's length in front of you, at a height matching your intended hyzer/anhyzer angle. Then slap through the paper with the back of your hand, in a way which would make the loudest possible imaginary smack, and there's your drive. Do it softer, and there's your approach.
+In this mental model the final part of the throw is called "slap". As "snap" told us nothing, "slap" is immediately familiar and instructive. Everybody knows how to backhand slap something, whether it's part of your daily routine or not.
 
-You can place this slap target by sticking your hand out as if shaking hands with someone. Then you can adjust your hyzer/anhyzer angle by raising or lowering your arm. Similarly, you can adjust the timing of your throw by moving the arm to the left or to the right. When the adjustments are done make a mental note of where the hand is in relation to your torso, and there's your slap target.
+So, for a backhand throw, imagine an A4 size paper floating in the air at an arm's length in front of you, at a height matching your intended hyzer/anhyzer angle. Then slap through the paper with the back of your hand, in a way which would make the loudest possible imaginary smack, and there's your drive. Do it softer, and there's your approach.
 
-> By the time your hand reaches the imaginary slap target during a throw your arm should be fully extended, and coincidentally, it's the point where the disc leaves your hand.
+You can place this slap target by sticking your hand out as if shaking hands with someone. Then you can adjust your hyzer/anhyzer angle by raising or lowering your arm. Similarly, you can adjust the timing of your throw by moving the arm to the left or to the right. Once the adjustments are done make a mental note of where your hand is in relation to your torso, and there's your slap target.
+
+> By the time your hand reaches the imaginary slap target during a throw your arm should be fully extended, and coincidentally, that's the point where the disc leaves your hand.
 
 **The slap is the throw**. Everything we do before the slap is optional and just serves to make the slap louder (=faster) and more efficient (=smoother/easier). We let the follow-through happen on its own and observe casually as the disc completes its flight... or hits the first available.
 
@@ -61,17 +67,21 @@ Aha, this video says that the throw is like a whip, that the movement starts fro
 
 Then came the power pocket, spin-and-throw and the realization that one can't do an X-step on a straight line (your feet need space!). You get the point. There are many, many solutions offered for the backhand problem, and you might end up with an overcomplicated mess for a throw.
 
-What ever you do, don't try to fix your throw by throwing harder. That effort will be wasted.
+It's OK to focus on details and apply changes to your technique by performing drills. But, you also need to perform a sufficient number of non-cognitive executions, where you don't try to control anything, or you'll be stuck in "training mode" forever.
+
+Another trap is to rely on power. As unintuitive as it may sound, the perceived effort does not correlate well with the disc velocity. In my case it took a sports radar to make me a believer.
+
+So, whatever you do, don't try to fix your throw by throwing harder. That effort will be wasted.
 
 ## The Brace
 
 The brace is another term mentioned in multiple videos. It sounds important, and it is, but how do you actually brace?
 
-Simply put, stop your forward movement/weight-transfer with all your weight on the front foot without spilling over, and you're good.
+Simply put, stop your forward movement or weight transfer with all your weight on the front foot without spilling over, and you're good.
 
 ## The Steps
 
-Steps allow a more extreme weight transfer than what can be achieved while standing still. This weight transfer allows you to generate a "louder slap". How you take your steps and how many they are, doesn't matter too much. Feel free to experiment.
+Taking steps allows for a more extreme weight transfer than what can be achieved while standing still. This weight transfer allows you to generate a "louder slap". How you take your steps and how many they are, doesn't matter too much. Feel free to experiment.
 
 Things to consider when experimenting with steps:
 1. It would be nice to fit all the steps on a decently sized teepad
