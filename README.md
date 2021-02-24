@@ -8,7 +8,7 @@ When teaching a sport the teacher, or the coach, is often expected to show merit
 
 I have invested time and effort over the last five years to understand and learn the disc golf backhand throw. My sources and methods have been the usual: fellow players and YouTube videos, practice, experimentation and contemplating. Now, I want to pass what I have learned to you.
 
-I'm aware that this kind of content is expected to be in video format nowadays. I don't have the means or the skills to create such videos. Instead, I'll resort to the age-old method of writing words (with a couple of pictures to clear things up). I will apply a decidedly provocative style to keep the message clear, and I'll drop names with reckless abandon. I don't mean to attack or discredit anyone.
+I'm aware that this kind of content is expected to be in video format nowadays. I don't have the means or the skills to create such videos. Instead, I'll resort to the age-old method of writing words (with maybe a couple of pictures or links to videos to clear things up). I will apply a decidedly provocative style to keep the message clear, and I'll drop names with reckless abandon. I don't mean to attack or discredit anyone.
 
 In this piece, I'll first explain what I'm trying to achieve, then we'll look into the compound movement of the backhand throw as a whole, and go deeper from there. Along the way I'll add personal opinions and anecdotes to aid in understanding the presented ideas.
 
@@ -45,13 +45,13 @@ The main components of a backhand throw, in chronological order:
 
 When talking about cues, the selection of words is important. For example, I choose to say "steps" instead of "run-up", since it's not about speed. It is also important to make clear if and how cues depend on each other and whether they are actions or consequences.
 
-Let's consider "snap" as an example. Numerous videos talk about snap in a disc golf throw. The problem with snap is that it is ambiguous. Some consider snap as the sound the release of the disc may or may not make. Others understand snap as the movement being "snappy". Neither of these interpretations are very helpful as they don't guide you to do the right thing.
+Let's take "snap" as an example. Numerous videos talk about snap in a disc golf throw. The problem with word "snap" is that it is ambiguous. Some consider snap as the sound the release of the disc may or may not make. Others understand snap as the movement being "snappy". Neither of these interpretations are very helpful as they don't guide you to do the right thing.
 
-In this mental model the final part of the throw is called "slap". As "snap" told us nothing, "slap" is immediately familiar and instructive. Everybody knows how to backhand slap something, whether it's part of your daily routine or not.
+In this mental model the final part of the throw is called "slap". As "snap" told us next to nothing, "slap" is immediately familiar and instructive. Everybody knows how to backhand slap something, whether it's part of your daily routine or not.
 
-So, for a backhand throw, imagine an A4 size paper floating in the air at an arm's length in front of you, at a height matching your intended hyzer/anhyzer angle. Then slap through the paper with the back of your hand, in a way which would make the loudest possible imaginary smack, and there's your drive. Do it softer, and there's your approach.
+So, for a backhand throw, imagine a sheet of paper floating in the air at an arm's length in front of you, at a height matching your intended hyzer/anhyzer angle. Slap through the paper with the back of your hand, in a way which would make the loudest possible imaginary smack, and there's your drive. Do it softer, and there's your approach.
 
-You can place this slap target by sticking your hand out as if shaking hands with someone. Then you can adjust your hyzer/anhyzer angle by raising or lowering your arm. Similarly, you can adjust the timing of your throw by moving the arm to the left or to the right. Once the adjustments are done make a mental note of where your hand is in relation to your torso, and there's your slap target.
+You can place this slap target by sticking your hand out as if shaking hands with someone. You can then adjust your hyzer/anhyzer angle by raising or lowering your arm. Similarly, you can adjust the timing of your throw by moving the arm to the left or to the right. Once the adjustments are done make a mental note of where your hand is in relation to your torso, and there's your slap target.
 
 > By the time your hand reaches the imaginary slap target during a throw your arm should be fully extended, and coincidentally, that's the point where the disc leaves your hand.
 
