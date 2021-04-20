@@ -34,16 +34,16 @@ This is why I would recommend practicing the throw on a net or at least without 
 
 Now that we have gone through what happens inside your head when throwing, we can move on to what happens with your body.
 
-YouTube has many videos breaking down the backhand throw. Depending on the video the movement might have one or a dozen stages or parts in it. This mental model has three.
+YouTube has many videos breaking down the backhand throw. Depending on the video the movement might have one or a dozen stages or parts in it. This model has three.
 
-The main components of a backhand throw, in chronological order:
-1. Steps (optional)
-2. Brace
-3. Slap
+> The components of a backhand throw, in chronological order:
+>1. Steps (building forward momentum)
+>2. Brace (converting forward momentum into rotation)
+>3. Slap (timing the release of the disc)
 
 ## The Slap
 
-When talking about cues, the selection of words is important. For example, I choose to say "steps" instead of "run-up", since it's not about speed. It is also important to make clear if and how cues depend on each other and whether they are actions or consequences.
+When talking about cues, the selection of words is important. For example, I choose to say "steps" instead of "run-up", since you don't have to run. It is also important to make clear if and how cues depend on each other and whether they are actions or consequences.
 
 Let's take "snap" as an example. Numerous videos talk about snap in a disc golf throw. The problem with word "snap" is that it is ambiguous. Some consider snap as the sound the release of the disc may or may not make. Others understand snap as the movement being "snappy". Neither of these interpretations are very helpful as they don't guide you to do the right thing.
 
@@ -63,25 +63,35 @@ For most of us the backhand throw is a new movement. You are given a disc and so
 
 Next, you'll check out some YouTube videos. The friendly person in the video tells you that to get the distance you need to pull on the disc hard, like starting a lawnmower. Next one tells you the secret to unlocking power is in the reachback. OK, so you reach back and start a lawnmower. You feel like you gained some power and consistency, but the distance maxes out at under 100 meters. What's next?
 
-Aha, this video says that the throw is like a whip, that the movement starts from the base and moves up the body and out to the disc. Makes sense. Well, I combined the lawnmower with the whip and it didn't work out. Lawnmower encourages early acceleration and the whip late acceleration, and between them lies a desert of deceleration.
+Aha, this video says that the throw is like a whip, that the movement starts from the base and moves up the body and out to the disc. Makes sense. Well, I continued starting the lawnmower with a whip and it didn't work out. Lawnmower encourages early acceleration and the whip late acceleration, and between them lies a desert of deceleration.
 
-Then came the power pocket, spin-and-throw and the realization that one can't do an X-step on a straight line (your feet need space!). You get the point. There are many, many solutions offered for the backhand problem, and you might end up with an overcomplicated mess for a throw.
+Then came the power pocket, the idea of spin-and-throw and the realization that one can't do an X-step on a straight line (your feet need space!). You get the point. There are many solutions offered for the backhand problem, and you might end up with an overcomplicated mess for a throw.
 
 It's OK to focus on details and apply changes to your technique by performing drills. But, you also need to perform a sufficient number of non-cognitive executions, where you don't try to control anything, or you'll be stuck in "training mode" forever.
 
-Another trap is to rely on power. As unintuitive as it may sound, the perceived effort does not correlate well with the disc velocity. In my case it took a sports radar to make me a believer.
+Another trap is to rely on power. As unintuitive as it may sound, the perceived effort does not correlate well with the disc velocity. In my case it took a sports radar to make me believe that.
 
-So, whatever you do, don't try to fix your throw by throwing harder. That effort will be wasted.
+> So, whatever you do, don't try to fix your throw by throwing harder. That effort will be wasted.
 
 ## The Brace
 
-The brace is another term mentioned in multiple videos. It sounds important, and it is, but how do you actually brace?
+The brace is another term mentioned in multiple videos. It sounds important, and it is, but what does it do, and how do you actually brace?
 
-Simply put, stop your forward movement or weight transfer with all your weight on the front foot without spilling over, and you're good.
+For the longest time I thought bracing serves to just stop your forward momentum, giving your body support to accelerate the disc. In reality, you often end up _absorbing_ the forward momentum and _trying_ to accelerate the disc after that.
+
+> The key is _not_ to absord the momentum, but to convert it into rotation.
+
+Converting forward momentum into rotation is all about geometry and levers. Instead of stacking your weight directly behind the leading foot and leg (which leaves us with no rotational forces), we must pivot around the leading hip joint. Now, let's connect some dots.
+
+You have seen and heard the advice to bend your knees and stay _athletic_ during a throw? Well, obviously it's not a good idea to stay stiff while performing a dynamic movement, but there's even more to that.
+
+Bending your knees and taking an athletic stance puts your hip joints into flexion. And applying force on one leg while your hip joints are bent creates a rotational force at your hips. Instead of resisting and absorbing this force, you should allow it to turn your hips. In fact, you should assist it. **This is how you generate power into the throw.**
+
+You can practice this by taking one step into the brace and turning your hips from a back-facing position into a forward-facing position as quickly and effortlessly as possible, while maintaining good balance. It's OK to exaggerate the movement during this drill.
 
 ## The Steps
 
-Taking steps allows for a more extreme weight transfer than what can be achieved while standing still. This weight transfer allows you to generate a "louder slap". How you take your steps and how many they are, doesn't matter too much. Feel free to experiment.
+Taking steps allows us to build momentum for the brace. How you take your steps and how many they are, doesn't matter too much. Feel free to experiment.
 
 Things to consider when experimenting with steps:
 1. It would be nice to fit all the steps on a decently sized teepad
@@ -120,3 +130,5 @@ Thank you for taking the time to read this. I hope it was helpful.
 **Seppo Paju**, https://www.youtube.com/channel/UCEEtTtTGH8eNFS1bQB8mULQ. For great cues.
 
 **Jalle Stoor**, https://www.frisbeegolfvalmennus.fi/. For fixing my steps.
+
+**Jaani Länsiö**, https://www.youtube.com/channel/UCiJATjL3CcrOLLsjdOzWX9A. You made me finally realize where the power in a backhand throw comes from.
