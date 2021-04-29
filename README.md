@@ -65,9 +65,7 @@ Next, you'll check out some YouTube videos. The friendly person in the video tel
 
 Aha, this video says that the throw is like a whip, that the movement starts from the base and moves up the body and out to the disc. Makes sense. Well, I continued starting the lawnmower with a whip and it didn't work out. Lawnmower encourages early acceleration and the whip late acceleration, and between them lies a desert of deceleration.
 
-Then came the power pocket, the idea of spin-and-throw and the realization that one can't do an X-step on a straight line (your feet need space!). You get the point. There are many solutions offered for the backhand problem, and you might end up with an overcomplicated mess for a throw.
-
-It's OK to focus on details and apply changes to your technique by performing drills. But, you also need to perform a sufficient number of non-cognitive executions, where you don't try to control anything, or you'll be stuck in "training mode" forever.
+The trap where I and, I daresay, most players have fallen into, is the idea of pulling - that the energy of the throw is generated with the leading edge of your body. Well, it is not, we need to turn that around.
 
 Another trap is to rely on power. As unintuitive as it may sound, the perceived effort does not correlate well with the disc velocity. In my case it took a sports radar to make me believe that.
 
@@ -87,7 +85,11 @@ You have seen and heard the advice to bend your knees and stay _athletic_ during
 
 Bending your knees and taking an athletic stance puts your hip joints into flexion. And applying force on one leg while your hip joints are bent creates a rotational force at your hips. Instead of resisting and absorbing this force, you should allow it to turn your hips. In fact, you should assist it. **This is how you generate power into the throw.**
 
-You can practice this by taking one step into the brace and turning your hips from a back-facing position into a forward-facing position as quickly and effortlessly as possible, while maintaining good balance. It's OK to exaggerate the movement during this drill.
+You can practice your rotation, your timing and your power by delivering a low heavy cross with your back hand (at about 60 degrees off from your throwing direction) while loosely simulating a throw with the front arm.
+
+A heavy cross punch requires a solid push with the back leg, rotation of the hips, and it encourages a slight lag between the hips and shoulders. All of these happen to be exactly what we are looking for in a backhand throw to generate power, to emphasize the role of the trailing part of your body, and to de-emphasize the front side of the same.
+
+Once you get a feel of the timing, you can shift your focus from the punch back to the slap. Although you switch the arm that conducts the energy you create through your legs and hips, the timing and the source of the energy remains the same.
 
 ## The Steps
 
