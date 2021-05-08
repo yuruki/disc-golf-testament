@@ -38,24 +38,24 @@ YouTube has many videos breaking down the backhand throw. Depending on the video
 
 > The components of a backhand throw, in chronological order:
 >1. Steps (building forward momentum)
->2. Brace (converting forward momentum into rotation)
->3. Slap (timing the release of the disc)
+>2. Brace and turn (converting forward momentum into rotation)
+>3. Hit (timing the release of the disc)
 
-## The Slap
+## The Hit
 
 When talking about cues, the selection of words is important. For example, I choose to say "steps" instead of "run-up", since you don't have to run. It is also important to make clear if and how cues depend on each other and whether they are actions or consequences.
 
 Let's take "snap" as an example. Numerous videos talk about snap in a disc golf throw. The problem with word "snap" is that it is ambiguous. Some consider snap as the sound the release of the disc may or may not make. Others understand snap as the movement being "snappy". Neither of these interpretations are very helpful as they don't guide you to do the right thing.
 
-In this mental model the final part of the throw is called "slap". As "snap" told us next to nothing, "slap" is immediately familiar and instructive. Everybody knows how to backhand slap something, whether it's part of your daily routine or not.
+In this mental model the final part of the throw is called "hit". As "snap" told us next to nothing, "hit" is instructive. "Hit" is what we do, and "snap" is what happens.
 
-So, for a backhand throw, imagine a sheet of paper floating in the air at an arm's length in front of you, at a height matching your intended hyzer/anhyzer angle. Slap through the paper with the back of your hand, in a way which would make the loudest possible imaginary smack, and there's your drive. Do it softer, and there's your approach.
+Hit is an act of extending your elbow from a 90 degree angle to straight. Hit is the culmination and the channeling of the energy gathered in your shoulder rotation. Hit is timing the release of the disc.
 
-You can place this slap target by sticking your hand out as if shaking hands with someone. You can then adjust your hyzer/anhyzer angle by raising or lowering your arm. Similarly, you can adjust the timing of your throw by moving the arm to the left or to the right. Once the adjustments are done make a mental note of where your hand is in relation to your torso, and there's your slap target.
+> Ezra Aderhold explains this crucial movement very well here: https://www.youtube.com/watch?v=uQIzQcY05nE.
 
-> By the time your hand reaches the imaginary slap target during a throw your arm should be fully extended, and coincidentally, that's the point where the disc leaves your hand.
+So, for a backhand throw, imagine a target, like a sheet of paper, floating in the air at an arm's length in front of you, at a height matching your intended hyzer/anhyzer angle, and somewhere above your front foot. Rotate your shoulders and hit through the paper with the back of your hand. Rotate fast and there's your drive. Rotate slower (and shorter), and there's your approach.
 
-**The slap is the throw**. Everything we do before the slap is optional and just serves to make the slap louder (=faster) and more efficient (=smoother/easier). We let the follow-through happen on its own and observe casually as the disc completes its flight... or hits the first available.
+**The hit is the throw**. Everything we do before it just serves to make the hit harder (=faster) and more efficient (=smoother/easier). We let the follow-through happen on its own and observe casually as the disc completes its flight... or hits the first available.
 
 ## How to spend years without progress
 
@@ -67,7 +67,7 @@ Aha, this video says that the throw is like a whip, that the movement starts fro
 
 The trap where I and, I daresay, most players have fallen into, is the idea of pulling - that the energy of the throw is generated with the leading edge of your body. Well, it is not, we need to turn that around.
 
-Another trap is to rely on power. As unintuitive as it may sound, the perceived effort does not correlate well with the disc velocity. In my case it took a sports radar to make me believe that.
+Another trap is to rely on power in general. As unintuitive as it may sound, the perceived effort does not correlate well with the disc velocity. In my case it took a sports radar to make me believe that.
 
 > So, whatever you do, don't try to fix your throw by throwing harder. That effort will be wasted.
 
@@ -83,13 +83,41 @@ Converting forward momentum into rotation is all about geometry and levers. Inst
 
 You have seen and heard the advice to bend your knees and stay _athletic_ during a throw? Well, obviously it's not a good idea to stay stiff while performing a dynamic movement, but there's even more to that.
 
-Bending your knees and taking an athletic stance puts your hip joints into flexion. And applying force on one leg while your hip joints are bent creates a rotational force at your hips. Instead of resisting and absorbing this force, you should allow it to turn your hips. In fact, you should assist it. **This is how you generate power into the throw.**
+Bending your knees and taking an athletic stance puts your hip joints into flexion. And applying force on one leg while your hip joints are bent creates a rotational force at your hips. Instead of resisting and absorbing this force, you should allow it to turn your hips. In fact, you should assist it with your back leg. **This is what initiates your rotation.**
 
-You can practice your rotation, your timing and your power by delivering a low heavy cross with your back hand (at about 60 degrees off from your throwing direction) while loosely simulating a throw with the front arm.
+When the bracing starts your body should be at full wind-up: the hips are slightly turned away from the target and the shoulders are rotated further, up to 180 degrees from the target. See Overthrow Disc Golf (https://www.youtube.com/channel/UC4LCYbEROzep8Cw0lZWAJ4A) for the fax [sic].
+
+## The Turn
+
+Your brace hits the ground and starts to turn your hips. The knee of the back leg turns forward and pushes the hips further. At the same time, the front leg stiffens and adds to the turn. **This is the bottom layer of rotation.**
+
+The shoulders are left behind and start to catch up as you rotate the rear shoulder forward. Non-throwing arm is actively assisting the movement. **This is the top layer of rotation.**
+
+Attached to the top layer is your throwing arm. The arm does no active movement before the hit; it merely keeps up with the shoulders to avoid collapsing into your body. **This is the outer layer of rotation.**
+
+The phase difference, or the lag, between the layers creates the spring effect and the disc lag (another great Overthrow Disc Golf concept) we are looking for.
+
+## The Practice
+
+All of the above is just a theory and an idea. It's something you can reference when you are looking for the next thing to work on. It is a bad idea, and impossible, to think about all this while you are throwing. Instead, let's get there with a set of drills.
+
+The first thing you should practice is the hit. You have to learn how a well-timed hit feels, and how the arm does nothing but extends in front of your body.
+
+### Getting the Hit
+
+You can practice the hit by standing still in a staggered stance, holding your throwing arm in the power box or power pocket position, rotating your shoulders back and forth slightly and performing the hit repeatedly. Keep the arm and the hand relaxed and tighten your grip at the moment of the hit.
+
+At first the hips don't move much, and the free arm is passive. Once you get into the groove, you can gradually increase the range of the rotation at both the shoulders and the hips, and the free arm becomes more active.
+
+The mass of the disc can affect the timing and the feel of the hit. You should practice with a disc or another object of similar weight as well, to see if it makes a difference for you.
+
+### Getting the Rotation
+
+You can practice your rotation, your timing and your power by delivering a low heavy cross with your back hand (at about 45 degrees off from your throwing direction).
 
 A heavy cross punch requires a solid push with the back leg, rotation of the hips, and it encourages a slight lag between the hips and shoulders. All of these happen to be exactly what we are looking for in a backhand throw to generate power, to emphasize the role of the trailing part of your body, and to de-emphasize the front side of the same.
 
-Once you get a feel of the timing, you can shift your focus from the punch back to the slap. Although you switch the arm that conducts the energy you create through your legs and hips, the timing and the source of the energy remains the same.
+Once you get a feel of the timing, you can move on from punching with your fist to punching with your trailing shoulder. Punching with the shoulder intuitively makes use of the free arm and helps develop your ability to rotate your shoulders (very) fast.
 
 ## The Steps
 
@@ -113,9 +141,8 @@ My recommendation is a staggered four-step sequence as taught by Jalle Stoor. Th
 ## The Rest
 
 1. For a cleaner release and "a louder slap", concentrate the pressure in your grip on the fingers farthest away from your body. This will make your arm effectively longer.
-2. For a more efficient slap and better angle consistency, move your arm in a flat plane, i.e. imagine sweeping towards the slap target with your leading elbow.
-3. The idea of slap applies to forehand/sidearm as well. I believe Gregg Barsby has even mentioned that cue somewhere.
-4. Remember that your putt still has the biggest impact on your score.
+2. For a more efficient hit and better angle consistency, move your arm in a flat plane, i.e. imagine sweeping towards the hit with your leading elbow.
+3. Remember that your putt still has the biggest impact on your score.
 
 Thank you for taking the time to read this. I hope it was helpful.
 
@@ -129,8 +156,8 @@ Thank you for taking the time to read this. I hope it was helpful.
 
 **Tomas Ekström & Jonathan Fastborg**, https://www.youtube.com/channel/UCEs4x4mXXpuRPTRfOkfwEkg. For new insight and visualizations on the basics.
 
-**Seppo Paju**, https://www.youtube.com/channel/UCEEtTtTGH8eNFS1bQB8mULQ. For great cues.
-
 **Jalle Stoor**, https://www.frisbeegolfvalmennus.fi/. For fixing my steps.
 
 **Jaani Länsiö**, https://www.youtube.com/channel/UCiJATjL3CcrOLLsjdOzWX9A. You made me finally realize where the power in a backhand throw comes from.
+
+**Overthrow Disc Golf**, https://www.youtube.com/channel/UC4LCYbEROzep8Cw0lZWAJ4A. For probably the most professional content on disc golf coaching on YouTube.
