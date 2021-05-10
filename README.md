@@ -119,6 +119,8 @@ A heavy cross punch requires a solid push with the back leg, rotation of the hip
 
 Once you get a feel of the timing, you can move on from punching with your fist to punching with your trailing shoulder. Punching with the shoulder intuitively makes use of the free arm and helps develop your ability to rotate your shoulders (very) fast.
 
+Finally, you will combine the rotation and the hit into a throw. At this point you should, at most, think about starting with the rotation of the bottom layer and ending with the hit. Just let it happen.
+
 ## The Steps
 
 Taking steps allows us to build momentum for the brace. How you take your steps and how many they are, doesn't matter too much. Feel free to experiment.
